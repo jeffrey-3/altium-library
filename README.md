@@ -10,3 +10,9 @@
 and select the `.PcbLib` and `.SchLib` files
 
 ![](2.png)
+
+## Using components from the library
+
+1. Open the `Components` panel and select `AltiumLibrary.SchLib` in the dropdown menu
+
+![](3.png)
